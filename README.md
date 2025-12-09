@@ -151,7 +151,4 @@ Repository: https://github.com/yawokodjo/CITG_FLEET_MANAGEMENT
 
 ---
 
-If you'd like, I can:
-- Commit this README.md into the repository on a new branch and open a PR (I can push if you tell me to and provide the repo owner/confirm).
-- Generate README files for the fleet-mgt-api and fleet-mgt-frontend subprojects with concrete commands based on their contents.
-- Inspect docker-compose.yml and produce exact service names, ports, and a tailored "Quick start" section. Tell me which of these you want next.
+
